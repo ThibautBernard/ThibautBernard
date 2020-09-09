@@ -1,6 +1,6 @@
 
 
-Hey 👋 i'm Thibaut, a web developper junior PHP. 
+Hey 👋 I'm Thibaut and i'm currently learning Programmation(DevOps, Low Level, High level, complexity algorithms, Peer To Peer) at Holberton School !
 
 - 💼 What i know : Symfony, Api Rest, Docker, PostGreSQL, MySQL, Basic Shell, Agile method
 
