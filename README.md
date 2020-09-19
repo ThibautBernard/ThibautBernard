@@ -5,3 +5,5 @@ Hey 👋 I'm Thibaut and i'm currently learning Programmation (**DevOps**, **Low
 - 📫 **How to reach me**: thibautbernard@sfr.fr
 - 🗣 **All my articles** : https://medium.com/@2533
 - 🗣 **Linkedin** : https://www.linkedin.com/in/thibaut--bernard
+
+**Slogan : *Learn, communication & transmit knowledge to my peers***
