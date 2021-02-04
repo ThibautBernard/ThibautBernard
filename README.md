@@ -6,7 +6,7 @@ Hey 👋 I'm Thibaut and i'm currently learning Programmation at **Holberton Sch
  * :sparkles: **High level programmation** (Python, Flask, JavaScript, UnitTest, Tdd...).
  * :sparkles: *Peer To Peer* learning and *transmit knowledge* to peers.
  * :sparkles: **Soft-skills**, share knowledge by writing articles. 
-# --------------------------------------------- #
+#
 * :+1: Currently searching for an internship in Web Development in France (Nantes) or other (Montreal...) *if remote at first* to begin the July 5th 2021.
 - 👉 **My twitter** : @__ThibautDev
 - 📫 **How to reach me**: thibautbernard@sfr.fr
