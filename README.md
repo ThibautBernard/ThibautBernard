@@ -20,4 +20,4 @@ Hey 👋 I'm Thibaut and i'm currently learning Programmation at **Holberton Sch
   - :rocket: The famous function printf() in C ([Here](https://github.com/ThibautBernard/printf))
   - :rocket: An url shortener in PHP with the framework Symfony ([Here](https://github.com/ThibautBernard/url-shorter))
 #### **Slogan : *Learn, communication & transmit knowledge to my peers***
-# ![](https://komarev.com/ghpvc/?username=ThibautBernard&color=red)
+# ![](https://komarev.com/ghpvc/?username=ThibautBernard&color=green)
