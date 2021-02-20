@@ -15,7 +15,7 @@ Hey 👋 I'm Thibaut and i'm currently learning Programmation at **Holberton Sch
 - 🗣 **Linkedin** : https://www.linkedin.com/in/thibaut--bernard
 - 🤯 **StackOverFlow** : https://stackoverflow.com/users/14380464/thibaut-bernard
 - Recent projects :
-  - :rocket: AirBnB (Front-end, Back-End) in Python/Js ([Here](https://github.com/ThibautBernard/AirBnB_clone)
+  - :rocket: AirBnB (Front-end, Back-End) in Python/Js ([Here](https://github.com/ThibautBernard/AirBnB_clone))
     -  **Back-End** : 
        - Create all classes and models (Serialization - Deserialization).
        - Create a command line interpreter to manager our object.
