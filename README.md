@@ -1,13 +1,13 @@
 
 
-Hey 👋 I'm Thibaut and i'm currently learning Programmation at **Holberton School** to become a *software engineer!*
+Hey 👋 I'm Thibaut and i'm currently learning Programmation at **Holberton School** to become a *fullstack engineer!*
  * :sparkles: **DevOps** (Shell scripting, Condition, Loop, Commands, VM, Docker)
  * :sparkles: **Low Level programmation** (C, Data Structure, Memory, Sort algorithms, Complexity of algorithms Big-O Notation...).
  * :sparkles: **High level programmation** (Python, Flask, JavaScript, UnitTest, Tdd...).
  * :sparkles: *Peer To Peer* learning and *transmit knowledge* to peers.
  * :sparkles: **Soft-skills**, share knowledge by writing articles. 
 #
-* :+1: Currently searching for an internship in Web Development in France (Nantes) or other (Montreal...) *if remote at first* to begin the July 5th 2021.
+* :+1: Currently searching for an internship in Web Development in France (Nantes) or other (my goal is to move to Canada) *if remote at first* to begin the July 5th 2021.
 #
 - 👉 **My twitter** : @__ThibautDev
 - 📫 **How to reach me**: thibautbernard@sfr.fr
