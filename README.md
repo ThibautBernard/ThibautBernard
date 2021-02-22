@@ -1,6 +1,6 @@
 
 
-Hey 👋 I'm Thibaut, i'm a 23 years old guy that love create new thing with passion and discipline, that also in love with Canada. 
+Hey 👋 I'm Thibaut, i'm a 23 years old guy that love create new thing with passion and discipline, that also in love with Canada.
 #
 I'm currently learning Programmation at **Holberton School** to become a *fullstack engineer!*
 ### What we learn :
@@ -10,8 +10,10 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
  * :sparkles: *Peer To Peer* learning and *transmit knowledge* to peers.
  * :sparkles: **Soft-skills**, share knowledge by writing articles. 
 #
-- ### Stack (ATM) :
+### Stack (ATM) :
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautBernard&theme=blue-green)
 #
+### News : 
 * :+1: Currently searching for an internship in Web Development in France (Nantes) or other (my goal is to move to Canada) *if remote at first* to begin the July 5th 2021.
 #
 ### Informations :
@@ -21,7 +23,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 - 🗣 **Linkedin** : https://www.linkedin.com/in/thibaut--bernard
 - 🤯 **StackOverFlow** : https://stackoverflow.com/users/14380464/thibaut-bernard
 #
-- ### Recent projects :
+### Recent projects :
   - :rocket: AirBnB (Front-end, Back-End) in Python/Js ([Here](https://github.com/ThibautBernard/AirBnB_clone))
     -  **Back-End** : 
        - Create all classes and models (Serialization - Deserialization).
