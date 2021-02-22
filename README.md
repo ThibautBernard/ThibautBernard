@@ -1,6 +1,6 @@
 ### Who am i ? 
 
-Hey 👋 I'm Thibaut, i'm a 23 years old guy that love create new thing with passion and discipline, that also in love with Canada.
+Hey 👋 I'm Thibaut, i'm a 23 years old guy that love create new things with passion and discipline, that also in love with Canada.
 #
 I'm currently learning Programmation at **Holberton School** to become a *fullstack engineer!*
 ### What we learn :
