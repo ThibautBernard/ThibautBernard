@@ -29,6 +29,8 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
        - Create all classes and models (Serialization - Deserialization).
        - Create a command line interpreter to manager our object.
        - UnitTest.
+    - **Front-End** :
+      - Static integration [here](https://github.com/ThibautBernard/AirBnB_clone/tree/main/web_static)
   - :rocket: Interpreter for Monty ByteCodes files in C ([Here](https://github.com/ThibautBernard/monty))
   - :rocket: Reproduction of a Shell (command line interpreter) in C ([Here](https://github.com/ThibautBernard/simple_shell))
   - :rocket: The famous function printf() in C ([Here](https://github.com/ThibautBernard/printf))
