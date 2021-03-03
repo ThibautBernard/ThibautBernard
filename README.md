@@ -24,7 +24,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 - 🤯 **StackOverFlow** : https://stackoverflow.com/users/14380464/thibaut-bernard
 #
 ### Recent projects :
-  - :rocket: Discord Bot Reminder [Here](https://github.com/ThibautBernard/discord_bot)
+  - :rocket: Discord Bot Reminder in Python [Here](https://github.com/ThibautBernard/discord_bot)
     - Send an automatic message on discord when an event (zoom) is about to start from a google calendar.
   - :rocket: AirBnB (Front-end, Back-End) in Python/Js ([Here](https://github.com/ThibautBernard/AirBnB_clone))
     -  **Back-End** : 
