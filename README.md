@@ -4,9 +4,9 @@ Hey 👋 I'm Thibaut, i'm a 23 years old guy that love create new things with pa
 #
 I'm currently learning Programmation at **Holberton School** to become a *fullstack engineer!*
 ### What we learn :
- * :sparkles: **DevOps** (Shell scripting, Condition, Loop, Commands, VM, Docker)
- * :sparkles: **Low Level programmation** (C, Data Structure, Memory, Sort algorithms, Complexity of algorithms Big-O Notation...).
- * :sparkles: **High level programmation** (Python, Flask, JavaScript, UnitTest, Tdd...).
+ * :sparkles: [**DevOps**](https://github.com/ThibautBernard/holberton-system_engineering-devops) (Shell scripting, Condition, Loop, VM, Docker, web infrastructure design, regex, network(osi..))
+ * :sparkles: [**Low Level programmation**](https://github.com/ThibautBernard/holbertonschool-low_level_programming) (C, Data Structure(Single/doubly linked list, hashtable, binary trees), Memory, Sort algorithms, Complexity of algorithms big-O Notation, reverse engineering, assembler...).
+ * :sparkles: [**High level programmation**](https://github.com/ThibautBernard/holbertonschool-higher_level_programming) (Python, OOP, Flask, JavaScript, UnitTest, Tdd, SQL...).
  * :sparkles: *Peer To Peer* learning and *transmit knowledge* to peers.
  * :sparkles: **Soft-skills**, share knowledge by writing articles. 
 #
