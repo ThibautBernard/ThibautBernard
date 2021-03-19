@@ -7,7 +7,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
  * :sparkles: [**DevOps**](https://github.com/ThibautBernard/holberton-system_engineering-devops) (Shell scripting, Condition, Loop, VM, Docker, web infrastructure design, regex, network(osi..))
  * :sparkles: [**Low Level programmation**](https://github.com/ThibautBernard/holbertonschool-low_level_programming) (C, Data Structure(Single/doubly linked list, hashtable, binary trees), Memory, Sort algorithms, Complexity of algorithms big-O Notation, reverse engineering, assembler...).
  * :sparkles: [**High level programmation**](https://github.com/ThibautBernard/holbertonschool-higher_level_programming) (Python, OOP, Flask, JavaScript, UnitTest, Tdd, SQL...).
- * :sparkles: *Peer To Peer* learning and *transmit knowledge* to peers.
+ * :sparkles: White boarding, Peer to peer programming, *Peer To Peer* learning and *transmit knowledge* to peers.
  * :sparkles: **Soft-skills**, share knowledge by writing articles. 
 #
 ### Stack (ATM) :
