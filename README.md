@@ -14,7 +14,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautBernard&theme=blue-green)
 #
 ### News : 
-* :+1: Currently searching for an internship in Web Development in France (Nantes) or other (my goal is to move to Canada) *if remote at first* to begin the July 5th 2021.
+* :+1: Currently searching for an internship in Front-End or Back-End position in France (Nantes) or other (my goal is to move to Canada) *if remote at first* to begin the July 5th 2021.
 #
 ### Informations :
 - 👉 **My twitter** : @__ThibautDev
