@@ -25,7 +25,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 #
 ### Recent projects :
   - 🔥 Integration CSS Mobile first [Here](https://github.com/ThibautBernard/Price-component-integration-css)
-  - 🔥 Basic Clock time and timer in Javascript [Here](https://github.com/ThibautBernard/clock-js)
+  - 🚀 Basic Clock time and timer in Javascript [Here](https://github.com/ThibautBernard/clock-js)
   - :rocket: Discord Bot Reminder in Python [Here](https://github.com/ThibautBernard/discord_bot)
     - Send an automatic message on discord when an event (zoom) is about to start from a google calendar.
   - :rocket: AirBnB (Front-end, Back-End) in Python/Js ([Here](https://github.com/ThibautBernard/AirBnB_clone))
@@ -33,6 +33,9 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
        - Create all classes and models (Serialization - Deserialization).
        - Create a command line interpreter to manager our object.
        - UnitTest.
+       - Two storage engine (FileStorage, DBStorage) [here](https://github.com/Maynot2/AirBnB_clone_v2)
+          - FileStorage store into json file all objects created
+          - DBStorage store objects into Database by ORM (SqlAlchemy)
     - **Front-End** :
       - Static integration [here](https://github.com/ThibautBernard/AirBnB_clone/tree/main/web_static)
   - :rocket: Interpreter for Monty ByteCodes files in C ([Here](https://github.com/ThibautBernard/monty))
