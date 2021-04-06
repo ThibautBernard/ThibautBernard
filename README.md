@@ -25,7 +25,8 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 #
 ### Recent projects :
   - 🔥 Side project website (PostGreSQL, NodeJS, Docker...)
-  - 🔥 Integration CSS Mobile first [Here](https://github.com/ThibautBernard/Price-component-integration-css)
+  - 🔥 404 Error page in Javascript [link](http://hbnbfr.tech/error)
+  - 🚀 Integration CSS Mobile first [Here](https://github.com/ThibautBernard/Price-component-integration-css)
   - 🚀 Basic Clock time and timer in Javascript [Here](https://github.com/ThibautBernard/clock-js)
   - :rocket: Discord Bot Reminder in Python [Here](https://github.com/ThibautBernard/discord_bot)
     - Send an automatic message on discord when an event (zoom) is about to start from a google calendar.
