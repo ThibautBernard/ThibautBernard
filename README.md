@@ -24,6 +24,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 - 🤯 **StackOverFlow** : https://stackoverflow.com/users/14380464/thibaut-bernard
 #
 ### Recent projects :
+  - 🔥 Side project website (PostGreSQL, NodeJS, Docker...)
   - 🔥 Integration CSS Mobile first [Here](https://github.com/ThibautBernard/Price-component-integration-css)
   - 🚀 Basic Clock time and timer in Javascript [Here](https://github.com/ThibautBernard/clock-js)
   - :rocket: Discord Bot Reminder in Python [Here](https://github.com/ThibautBernard/discord_bot)
