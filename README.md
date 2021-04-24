@@ -4,9 +4,9 @@ Hey 👋 I'm Thibaut, i'm a 23 years old guy that love create new things with pa
 #
 I'm currently learning Programmation at **Holberton School** to become a *fullstack engineer!*
 ### What we learn :
- * :sparkles: [**DevOps**](https://github.com/ThibautBernard/holberton-system_engineering-devops) (Shell scripting, Condition, Loop, VM, Docker, web infrastructure design, regex, network(osi..))
+ * :sparkles: [**DevOps**](https://github.com/ThibautBernard/holberton-system_engineering-devops) (CI/CD, Automatisation, Deployment, Shell scripting, Condition, Loop, VM, Docker, Web infrastructure design, Web stack debugging, Network(OSI..))
  * :sparkles: [**Low Level programmation**](https://github.com/ThibautBernard/holbertonschool-low_level_programming) (C, Data Structure(Single/doubly linked list, hashtable, binary trees), Memory, Sort algorithms, Complexity of algorithms big-O Notation, reverse engineering, assembler...).
- * :sparkles: [**High level programmation**](https://github.com/ThibautBernard/holbertonschool-higher_level_programming) (Python, OOP, Flask, JavaScript, UnitTest, Tdd, SQL...).
+ * :sparkles: [**High level programmation**](https://github.com/ThibautBernard/holbertonschool-higher_level_programming) (Python, OOP, Flask, JavaScript, UnitTest, Regex, SQL...).
  * :sparkles: White boarding, Peer to peer programming, *Peer To Peer* learning and *transmit knowledge* to peers.
  * :sparkles: **Soft-skills**, share knowledge by writing articles. 
 #
@@ -24,7 +24,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 - 🤯 **StackOverFlow** : https://stackoverflow.com/users/14380464/thibaut-bernard
 #
 ### Recent projects :
-  - 🔥 Side project website (PostGreSQL, NodeJS, Docker...) *working on*
+  - 🔥 Side project website with frontend/backend and API (PostGreSQL, NodeJS, Express, Docker...) *working on*
   - 🔥 404 Error page in Javascript [link](http://hbnbfr.tech/error)
   - 🚀 Integration CSS Mobile first [Here](https://github.com/ThibautBernard/Price-component-integration-css)
   - 🚀 Basic Clock time and timer in Javascript [Here](https://github.com/ThibautBernard/clock-js)
