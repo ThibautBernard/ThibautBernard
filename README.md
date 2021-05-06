@@ -1,6 +1,6 @@
 ### Who am i ? 
 
-Hey 👋 I'm Thibaut, i'm a 23 years old guy that love create new things with passion and discipline, that also in love with Canada.
+Hey 👋 I'm Thibaut, i'm a 24 years old guy that love create new things with passion and discipline, that also in love with Canada.
 #
 I'm currently learning Programmation at **Holberton School** to become a *fullstack engineer!*
 ### What we learn :
@@ -24,7 +24,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 - 🤯 **StackOverFlow** : https://stackoverflow.com/users/14380464/thibaut-bernard
 #
 ### Recent projects :
-  - 🔥 Website with a frontend(React) and backend(NodeJS + express) with an API using PostGreSQL
+  - 🔥 Website with a frontend(React) and backend(NodeJS + express) with an API and PostGreSQL for the database
     - Unitests with Mocha and Chai 
     - Working on two docker containers
     - Important: Currently working on and not deployed yet. 
