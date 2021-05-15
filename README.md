@@ -26,7 +26,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 ### Recent projects :
   - 🔥 Website with a frontend(React) and backend(NodeJS + express) with an API and PostGreSQL for the database
     - Unitests with Mocha and Chai 
-    - Working on two docker containers
+    - Docker
     - Important: Currently working on and not deployed yet. 
   - 🔥 404 Error page in Javascript [link](http://hbnbfr.tech/error)
   - 🚀 Integration CSS Mobile first [Here](https://github.com/ThibautBernard/Price-component-integration-css)
