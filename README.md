@@ -24,11 +24,12 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 - 🤯 **StackOverFlow** : https://stackoverflow.com/users/14380464/thibaut-bernard
 #
 ### Recent projects :
-  - 🔥 Website with a frontend(React) and backend(NodeJS + express) with an API and PostGreSQL for the database
+  - 🆕 Check all tasks for a project [Here](https://github.com/ThibautBernard/holberton_checker_CI)
+  - 🚀 Website with a frontend(React) and backend(NodeJS + express) with an API and PostGreSQL for the database
     - Unitests with Mocha and Chai 
     - Docker
     - Important: Currently working on and not deployed yet. 
-  - 🔥 404 Error page in Javascript [link](http://hbnbfr.tech/error)
+  - 🚀 404 Error page in Javascript [Here](http://hbnbfr.tech/error)
   - 🚀 Integration CSS Mobile first [Here](https://github.com/ThibautBernard/Price-component-integration-css)
   - 🚀 Basic Clock time and timer in Javascript [Here](https://github.com/ThibautBernard/clock-js)
   - :rocket: Discord Bot Reminder in Python [Here](https://github.com/ThibautBernard/discord_bot)
