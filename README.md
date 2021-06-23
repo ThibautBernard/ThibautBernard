@@ -12,7 +12,6 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 #
 ### Stack (ATM) :
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautBernard&theme=blue-green)
-# Intern Backend GO developer at Leboncoin 
 ### Informations :
 - 👉 **My twitter** : @__ThibautDev
 - 📫 **How to reach me**: thibautbernard@sfr.fr
