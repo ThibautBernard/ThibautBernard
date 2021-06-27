@@ -20,6 +20,7 @@ I'm currently learning Programmation at **Holberton School** to become a *fullst
 - 🤯 **StackOverFlow** : https://stackoverflow.com/users/14380464/thibaut-bernard
 #
 ### Recent projects :
+  - 🥵 BackToThePicture (ReactJS - TailwindCSS - NodeJS - ExpressJS - AWS) [Here](https://github.com/Maynot2/back_to_the_picture)
   - 🆕 Check all tasks for a project [Here](https://github.com/ThibautBernard/holberton_checker_CI)
   - 🚀 Website with a frontend(React) and backend(NodeJS + express) with an API and PostGreSQL for the database
     - Unitests with Mocha and Chai 
