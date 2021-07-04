@@ -2,12 +2,12 @@
 
 Hey 👋 I'm Thibaut, i'm a 24 years old guy that love create new things with passion and discipline, that also in love with Canada.
 #
-I'm currently learning Programmation at **Holberton School** to become a *fullstack engineer!*
-### What we learn :
+I'm currently intern at @Leboncoin as a Backend Developper GO
+### What i have learn at Holberton School :
  * :sparkles: [**DevOps**](https://github.com/ThibautBernard/holberton-system_engineering-devops) (CI/CD, Automatisation, Deployment, Shell scripting, Condition, Loop, VM, Docker, Web infrastructure design, Web stack debugging, Network(OSI..))
  * :sparkles: [**Low Level programmation**](https://github.com/ThibautBernard/holbertonschool-low_level_programming) (C, Data Structure(Single/Doubly linked list, Hashtables, Binary trees), Memory, Sort/Search algorithms, Complexity of algorithms BIG-O Notation, Reverse engineering, Assembler x86...).
  * :sparkles: [**High level programmation**](https://github.com/ThibautBernard/holbertonschool-higher_level_programming) (Python, OOP, Flask, JavaScript, UnitTest, Regex, SQL...).
- * :sparkles: White boarding, Pair programming, Peer to peer programming, *Peer To Peer* learning and *transmit knowledge* to peers.
+ * :sparkles: White boarding, Pair programming, *Peer To Peer* learning and *transmit knowledge* to peers.
  * :sparkles: **Soft-skills**, share knowledge by writing articles. 
 #
 ### Stack (ATM) :
