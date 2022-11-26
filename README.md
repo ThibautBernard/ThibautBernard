@@ -1,8 +1,8 @@
 ### Who am i ? 
 
-Hey 👋 I'm Thibaut, i'm a 24 years old guy that love create new things with passion and discipline, that also in love with Canada.
+Hey 👋 I'm Thibaut, i'm a 25 years old guy that love create new things with passion and discipline.
 #
-I'm currently intern at @Leboncoin as a Backend Developper GO
+I'm currently software engineer at @Leboncoin as a Backend Developper GO
 ### What i have learn at Holberton School :
  * :sparkles: [**DevOps**](https://github.com/ThibautBernard/holberton-system_engineering-devops) (CI/CD, Automatisation, Deployment, Shell scripting, Condition, Loop, VM, Docker, Web infrastructure design, Web stack debugging, Network(OSI..))
  * :sparkles: [**Low Level programmation**](https://github.com/ThibautBernard/holbertonschool-low_level_programming) (C, Data Structure(Single/Doubly linked list, Hashtables, Binary trees), Memory, Sort/Search algorithms, Complexity of algorithms BIG-O Notation, Reverse engineering, Assembler x86...).
