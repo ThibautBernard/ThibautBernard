@@ -10,9 +10,9 @@ I'm currently software engineer at @Leboncoin as a Backend Developper GO since 2
 * AWS
 * Kube
 * Datadog
-* GCP
 * Kafka
 * Microservice
+* GCP
 * Swift
 * JS
 
