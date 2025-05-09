@@ -1,6 +1,6 @@
 ### Who am i ? 
 
-Hey 👋 I'm Thibaut, i'm a 27 years old guy, love designing new scalable architecture and implementing them. 
+Hey 👋 I'm Thibaut, i'm a 28 years old guy, love designing new scalable architecture and implementing them. 
 
 I'm currently software engineer at @Leboncoin as a Backend Developper GO since 2021. 
 #
@@ -13,8 +13,9 @@ I'm currently software engineer at @Leboncoin as a Backend Developper GO since 2
 * Kafka
 * Microservice
 * GCP
-* Swift
 * JS
+* Typescript
+* Swift
 
 ### Aspire : 
 * Architect
